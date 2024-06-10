@@ -8,4 +8,7 @@ Introduces LLMS w/ Huggingface and provides sample codes for:
 
 
 Classical NLP Methods.ipynb
-Provides an introduction to basic ML approaches for NLP tasks with focus on multi-class classification
+Provides an introduction to basic ML approaches for NLP tasks with focus on multi-class classification. Notebook walks through
+- loading data with Pandas
+- building simple ML classfication models using sparse representation features
+- finetuing language models with Huggingface
